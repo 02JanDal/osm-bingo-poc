@@ -32,7 +32,7 @@ const board: Board = [
     check: async (_api: API) => Promise.resolve(false),
   },
   {
-    description: "Map objects in multiple countries country",
+    description: "Map objects in multiple countries",
     implemented: false,
     check: async (_api: API) => Promise.resolve(false),
   },
